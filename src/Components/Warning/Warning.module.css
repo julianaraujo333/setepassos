@@ -1,0 +1,17 @@
+.warning{
+  background-image: url(../../Assets/texturabranco.png);
+  padding: 4rem 0;
+}
+
+.warning h3{
+  color: var(--color-dark);
+  font-size: 3.2rem;
+
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.warning p{
+  font-size: 1.4rem;
+  text-align: center;
+}

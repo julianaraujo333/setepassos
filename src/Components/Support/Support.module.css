@@ -1,0 +1,31 @@
+.support{
+  background-image: url(../../Assets/texturabranco.png);
+  padding: 4rem 0;
+
+  display: flex;
+}
+
+.support h3{
+  color: var(--color-dark);
+  font-size: 3.2rem;
+
+  margin-bottom: 1rem;
+}
+
+.support p{
+  font-size: 1.4rem;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.wrapper img{
+  width: 100%;
+  max-width: 250px;
+
+  margin-right: 2rem;
+}

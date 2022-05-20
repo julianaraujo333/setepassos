@@ -1,0 +1,24 @@
+.insurance{
+  background-image: url(../../Assets/texturaescuro.png);
+  color: var(--color-white);
+  padding: 4rem 0;
+  font-size: 1.4rem;
+}
+
+.insurance h3{
+  font-size: 3.2rem;
+
+  margin-bottom: 1rem;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;}
+
+.wrapper img{
+  width: 100%;
+  max-width: 250px;
+
+  margin-right: 2rem;
+}

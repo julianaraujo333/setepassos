@@ -1,0 +1,39 @@
+.button {
+  display: inline-block;
+
+  padding: 1.3em 5em;
+  letter-spacing: .5rem;
+  text-transform: uppercase;
+  background-color:#CFAB75;
+  border-radius: 2px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  font-family: var(--type-first);
+  color: #343439;
+  text-decoration: none;
+ }
+
+ 
+ .button:hover {
+  background-color: var(--color-dark);
+  box-shadow: 0px 15px 20px rgba(37, 69, 40, 0.4);
+  color: var(--color-white);
+  transform: translateY(-7px);
+ }
+ 
+ .button:active {
+  transform: translateY(-1px);
+ }
+
+ .wrapper{
+  margin: 1.5rem 0;
+ }
+
+ @media screen and (max-width: 600px) { 
+  .button{
+    padding: 1.3em 3em;
+    letter-spacing: 1.5px;
+  }
+}

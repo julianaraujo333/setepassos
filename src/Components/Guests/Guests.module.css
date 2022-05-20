@@ -1,0 +1,42 @@
+.guest{
+  background-image: url(../../Assets/texturaescuro.png);
+  background-position: center center;
+  background-size: cover;
+
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.guest h3{
+  font-size: 4rem;
+
+  margin-bottom: 1rem;
+  color: var(--color-white);
+}
+
+.guest img{
+  width: 100%;
+  max-width: 100px;
+}
+
+.list{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  margin-top: 2rem;
+
+  color: var(--color-white);
+}
+
+.sublist{
+  text-align: left;
+  margin-left: 1.5rem;
+  font-size: 1.4rem;
+
+}
+
+.sublist h3{
+  font-weight: bold;
+  font-size: 1.7rem;
+  margin: 0;
+}

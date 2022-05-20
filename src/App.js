@@ -1,5 +1,6 @@
 import "./App.css";
 import Banner from "./Components/Banner/Banner";
+import Guests from "./Components/Guests/Guests";
 import Insurance from "./Components/Insurance/Insurance";
 import Mentor from "./Components/Mentor/Mentor";
 import Support from "./Components/Support/Support";
@@ -11,6 +12,7 @@ function App() {
       <Banner />
       <Mentor />
       <Support />
+      <Guests />
       <Insurance />
       <Warning />
     </div>

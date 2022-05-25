@@ -30,10 +30,9 @@ const data = [
   },
   {
     id: 5,
-    title:
-      "Assim que as inscrições forem encerradas vou entrar em contato com os ganhadores pelo WhatsApp",
+    title: "Como vou saber se ganhei os bônus?",
     content:
-      "Não se preocupe, todas as aulas ao vivo ficam salvas na plataforma para você assistir quando quiser.",
+      "Assim que as inscrições forem encerradas vou entrar em contato com os ganhadores pelo WhatsApp",
   },
   {
     id: 5,

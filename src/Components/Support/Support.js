@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "../Button/Button";
 import styles from "./Support.module.css";
 import whatsapp from "../../Assets/whatsapp.png";
 const Support = () => {
@@ -13,7 +12,9 @@ const Support = () => {
             Entre em contato sem qualquer compromisso. Eu e a minha equipe vamos
             te ajudar!
           </p>
-          <Button />
+          <a href="https://pay.kiwify.com.br/EacdbiQ">
+            Quero garantir minha vaga
+          </a>
         </div>
       </div>
     </section>

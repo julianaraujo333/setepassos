@@ -5,11 +5,11 @@ const Button = () => {
   return (
     <div className={`${styles.wrapper} container`}>
       <a
-        href="https://chat.whatsapp.com/L62ACsNRcTYHoEzSHQMZ1r"
+        href="https://pay.kiwify.com.br/EacdbiQ"
         target="_blank"
         className={styles.button}
       >
-        Quero Participar
+        Quero garantir minha vaga
       </a>
     </div>
   );

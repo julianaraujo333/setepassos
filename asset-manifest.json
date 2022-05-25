@@ -1,16 +1,43 @@
 {
   "files": {
-    "main.css": "/setepassos/static/css/main.073c9b0a.css",
-    "main.js": "/setepassos/static/js/main.ee0a855b.js",
-    "static/js/787.8e34efb0.chunk.js": "/setepassos/static/js/787.8e34efb0.chunk.js",
-    "static/media/logo.svg": "/setepassos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/setepassos/index.html",
-    "main.073c9b0a.css.map": "/setepassos/static/css/main.073c9b0a.css.map",
-    "main.ee0a855b.js.map": "/setepassos/static/js/main.ee0a855b.js.map",
-    "787.8e34efb0.chunk.js.map": "/setepassos/static/js/787.8e34efb0.chunk.js.map"
+    "main.css": "/home.polianaaraujo.com.br/static/css/main.ca3ae9c4.css",
+    "main.js": "/home.polianaaraujo.com.br/static/js/main.a612e889.js",
+    "static/media/texturabranco.png": "/home.polianaaraujo.com.br/static/media/texturabranco.df2c7d005f8e8f6ffe1b.png",
+    "static/media/texturaescuro.png": "/home.polianaaraujo.com.br/static/media/texturaescuro.d6ec523904160766210e.png",
+    "static/media/bio.jpg": "/home.polianaaraujo.com.br/static/media/bio.2becdea077326e84ac15.jpg",
+    "static/media/juliana.png": "/home.polianaaraujo.com.br/static/media/juliana.c95b64ea9a62976158f3.png",
+    "static/media/tallyta.png": "/home.polianaaraujo.com.br/static/media/tallyta.2f45b1fae672985f676f.png",
+    "static/media/rodrigo.png": "/home.polianaaraujo.com.br/static/media/rodrigo.7c05ee5ff00b4d588423.png",
+    "static/media/kelly.png": "/home.polianaaraujo.com.br/static/media/kelly.9ec774c2a02099e1ba92.png",
+    "static/media/1.jpg": "/home.polianaaraujo.com.br/static/media/1.b5094fc0bf847ce86d10.jpg",
+    "static/media/12.jpg": "/home.polianaaraujo.com.br/static/media/12.e7f5a5c165649aa38c62.jpg",
+    "static/media/sthefaniacamila.png": "/home.polianaaraujo.com.br/static/media/sthefaniacamila.5e164da75471d52954cc.png",
+    "static/media/foto1.png": "/home.polianaaraujo.com.br/static/media/foto1.f7e8bd44f05dfeb08676.png",
+    "static/media/10.jpg": "/home.polianaaraujo.com.br/static/media/10.7f88bf9de949cd850ca3.jpg",
+    "static/media/11.jpg": "/home.polianaaraujo.com.br/static/media/11.5b2fe5fc5c9c15ad9d3c.jpg",
+    "static/media/2.PNG": "/home.polianaaraujo.com.br/static/media/2.6453d0ef1ffd8b3de6f7.PNG",
+    "static/media/4.jpg": "/home.polianaaraujo.com.br/static/media/4.ff38eddf6a103f7dada3.jpg",
+    "static/media/3.png": "/home.polianaaraujo.com.br/static/media/3.6120ddb358716aeead4f.png",
+    "static/media/9.jpg": "/home.polianaaraujo.com.br/static/media/9.235e3acf4194834118cb.jpg",
+    "static/media/5.PNG": "/home.polianaaraujo.com.br/static/media/5.3118869dd43990e1c10c.PNG",
+    "static/media/nome.png": "/home.polianaaraujo.com.br/static/media/nome.d3abba8d218a3814216c.png",
+    "static/media/6.PNG": "/home.polianaaraujo.com.br/static/media/6.13de004be1c543167759.PNG",
+    "static/media/7.jpg": "/home.polianaaraujo.com.br/static/media/7.62545315ac256a4c279f.jpg",
+    "static/media/8.jpg": "/home.polianaaraujo.com.br/static/media/8.4f44baf947a489e59839.jpg",
+    "static/media/whatsapp.png": "/home.polianaaraujo.com.br/static/media/whatsapp.464f800695f34faab091.png",
+    "static/media/garantia.png": "/home.polianaaraujo.com.br/static/media/garantia.310c4e78c31bc3850ba5.png",
+    "static/media/cartao.png": "/home.polianaaraujo.com.br/static/media/cartao.2c55b4352073d9f63047.png",
+    "static/media/pix.png": "/home.polianaaraujo.com.br/static/media/pix.56aa6e69b0013d78574c.png",
+    "static/media/boleto.png": "/home.polianaaraujo.com.br/static/media/boleto.5d1009903eb37b8f3ebc.png",
+    "static/media/revicons.eot": "/home.polianaaraujo.com.br/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/home.polianaaraujo.com.br/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/home.polianaaraujo.com.br/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/home.polianaaraujo.com.br/index.html",
+    "main.ca3ae9c4.css.map": "/home.polianaaraujo.com.br/static/css/main.ca3ae9c4.css.map",
+    "main.a612e889.js.map": "/home.polianaaraujo.com.br/static/js/main.a612e889.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ee0a855b.js"
+    "static/css/main.ca3ae9c4.css",
+    "static/js/main.a612e889.js"
   ]
 }

@@ -1,0 +1,87 @@
+.details{
+  background-image: url(../../Assets/texturabranco.png);
+  padding-bottom: 4rem;
+  font-size: 1.4rem;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper img{
+  width: 100%;
+  max-width: 550px;
+}
+
+
+.list span{
+  margin-left: 1rem;
+}
+
+.wrapper li{
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.4rem;
+}
+
+.list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  border: 2px solid var(--color-dark);
+  padding: 4rem 4rem;
+  margin-top:2rem;
+}
+
+.box p{
+  color: var(--color-dark);
+  font-size: 5rem;
+}
+
+.button img{
+  width: 100%;
+  max-width: 50px;
+  margin-right: 10px;
+}
+
+.button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button a{
+  text-transform: uppercase;
+  padding: 1.125rem 2rem;
+  background-color:#CFAB75;
+  border-radius: 2px;
+  text-decoration: none;
+  color: #343439;
+  transition: all 0.3s ease 0s;
+
+  margin: 1.3rem 0;
+}
+
+.button a:hover {
+  background-color: var(--color-dark);
+  box-shadow: 0px 15px 20px rgba(37, 69, 40, 0.4);
+  color: var(--color-white);
+  transform: translateY(-7px);
+ }
+
+ @media screen and (max-width: 960px) { 
+  .list{
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -10,6 +10,7 @@ import Testimonial from "./Components/Testimonial/Testimonial";
 import Home from "./Components/Home/Home";
 import Dancing from "./Components/Dancing/Dancing";
 import Questions from "./Components/Questions/Questions";
+import Details from "./Components/Details/Details";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Guests />
       <Testimonial />
       <Insurance />
+      <Details />
       <Mentor />
       <Support />
       <Questions />

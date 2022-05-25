@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/polianaaraujo.com.br/static/css/main.ae6fde3a.css",
-    "main.js": "/polianaaraujo.com.br/static/js/main.36e5a78a.js",
+    "main.js": "/polianaaraujo.com.br/static/js/main.7347d552.js",
     "static/media/texturabranco.png": "/polianaaraujo.com.br/static/media/texturabranco.df2c7d005f8e8f6ffe1b.png",
     "static/media/texturaescuro.png": "/polianaaraujo.com.br/static/media/texturaescuro.d6ec523904160766210e.png",
     "static/media/bio.jpg": "/polianaaraujo.com.br/static/media/bio.2becdea077326e84ac15.jpg",
@@ -39,10 +39,10 @@
     "static/media/revicons.woff": "/polianaaraujo.com.br/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/polianaaraujo.com.br/index.html",
     "main.ae6fde3a.css.map": "/polianaaraujo.com.br/static/css/main.ae6fde3a.css.map",
-    "main.36e5a78a.js.map": "/polianaaraujo.com.br/static/js/main.36e5a78a.js.map"
+    "main.7347d552.js.map": "/polianaaraujo.com.br/static/js/main.7347d552.js.map"
   },
   "entrypoints": [
     "static/css/main.ae6fde3a.css",
-    "static/js/main.36e5a78a.js"
+    "static/js/main.7347d552.js"
   ]
 }

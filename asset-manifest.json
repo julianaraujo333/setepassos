@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/julianaraujo333.github.io/setepassos/static/css/main.7cdd34a9.css",
-    "main.js": "/julianaraujo333.github.io/setepassos/static/js/main.6913be85.js",
+    "main.css": "/julianaraujo333.github.io/setepassos/static/css/main.300e2fcf.css",
+    "main.js": "/julianaraujo333.github.io/setepassos/static/js/main.a2d7c001.js",
     "static/media/texturabranco.png": "/julianaraujo333.github.io/setepassos/static/media/texturabranco.df2c7d005f8e8f6ffe1b.png",
     "static/media/texturaescuro.png": "/julianaraujo333.github.io/setepassos/static/media/texturaescuro.d6ec523904160766210e.png",
     "static/media/bio.jpg": "/julianaraujo333.github.io/setepassos/static/media/bio.2becdea077326e84ac15.jpg",
@@ -13,6 +13,7 @@
     "static/media/12.jpg": "/julianaraujo333.github.io/setepassos/static/media/12.e7f5a5c165649aa38c62.jpg",
     "static/media/sthefaniacamila.png": "/julianaraujo333.github.io/setepassos/static/media/sthefaniacamila.5e164da75471d52954cc.png",
     "static/media/foto1.png": "/julianaraujo333.github.io/setepassos/static/media/foto1.f7e8bd44f05dfeb08676.png",
+    "static/media/foto2.png": "/julianaraujo333.github.io/setepassos/static/media/foto2.ad1dab606aa7c776ad3b.png",
     "static/media/10.jpg": "/julianaraujo333.github.io/setepassos/static/media/10.7f88bf9de949cd850ca3.jpg",
     "static/media/11.jpg": "/julianaraujo333.github.io/setepassos/static/media/11.5b2fe5fc5c9c15ad9d3c.jpg",
     "static/media/2.PNG": "/julianaraujo333.github.io/setepassos/static/media/2.6453d0ef1ffd8b3de6f7.PNG",
@@ -33,11 +34,11 @@
     "static/media/revicons.ttf": "/julianaraujo333.github.io/setepassos/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/julianaraujo333.github.io/setepassos/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/julianaraujo333.github.io/setepassos/index.html",
-    "main.7cdd34a9.css.map": "/julianaraujo333.github.io/setepassos/static/css/main.7cdd34a9.css.map",
-    "main.6913be85.js.map": "/julianaraujo333.github.io/setepassos/static/js/main.6913be85.js.map"
+    "main.300e2fcf.css.map": "/julianaraujo333.github.io/setepassos/static/css/main.300e2fcf.css.map",
+    "main.a2d7c001.js.map": "/julianaraujo333.github.io/setepassos/static/js/main.a2d7c001.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cdd34a9.css",
-    "static/js/main.6913be85.js"
+    "static/css/main.300e2fcf.css",
+    "static/js/main.a2d7c001.js"
   ]
 }

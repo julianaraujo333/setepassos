@@ -30,7 +30,22 @@
 
 .wrapper img{
   width: 50%;
-  max-width: 50%;
+  max-width: 100%;
   object-fit: cover;
   border-radius: 5px;
+}
+
+@media screen and (max-width: 960px) { 
+  .wrapper{
+    flex-direction: column;
+  }
+
+  .wrapper >div{
+    width: 100%;
+  }
+
+  .wrapper img{
+    margin-top: 2rem;
+    width: 100%;
+  }
 }

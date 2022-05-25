@@ -1,0 +1,29 @@
+.gift{
+  background-image: url(../../Assets/texturaescuro.png);
+  color: var(--color-white);
+  padding: 4rem 0;
+  font-size: 1.4rem;
+}
+
+.gift h3{
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.gift span{
+  display: block;
+}
+
+.gift h4{
+  background-color:#CFAB75;
+  display: inline-block;
+  padding: .5rem;
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.box >div{
+  margin-bottom: 3rem;
+}

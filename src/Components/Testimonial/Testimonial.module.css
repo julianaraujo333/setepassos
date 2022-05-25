@@ -1,0 +1,12 @@
+.testimonial{
+  background-image: url(../../Assets/texturabranco.png);
+  padding: 4rem 0;
+}
+
+.testimonial h3{
+  color: var(--color-dark);
+  font-size: 3.2rem;
+
+  margin-bottom: 4.5rem;
+  text-align: center;
+}

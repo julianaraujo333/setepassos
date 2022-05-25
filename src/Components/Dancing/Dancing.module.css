@@ -1,0 +1,11 @@
+.dancing{
+  background-image: url(../../Assets/texturaescuro.png);
+  padding: 4rem 0;
+}
+
+.dancing h3{
+  color: var(--color-white);
+  font-size: 3.2rem;
+
+  margin-bottom: 1rem;
+}

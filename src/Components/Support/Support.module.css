@@ -29,3 +29,9 @@
 
   margin-right: 2rem;
 }
+
+@media screen and (max-width: 560px) { 
+  .wrapper img{
+    display: none;
+  }
+}

@@ -22,3 +22,13 @@
 
   margin-right: 2rem;
 }
+
+@media screen and (max-width: 560px) {
+  .wrapper{
+    flex-direction: column;
+  }
+
+  .wrapper img{
+    margin-bottom: 2rem;
+  }
+}

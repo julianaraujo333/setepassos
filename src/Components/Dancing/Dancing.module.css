@@ -1,11 +1,36 @@
 .dancing{
   background-image: url(../../Assets/texturaescuro.png);
-  padding: 4rem 0;
+  padding: 5rem 0;
+  overflow: hidden;
+  position: relative;
 }
 
 .dancing h3{
   color: var(--color-white);
   font-size: 3.2rem;
 
-  margin-bottom: 1rem;
+  margin-bottom: 2.3rem;
+}
+
+.dancing p{
+  font-size: 1.4rem;
+  color: var(--color-white);  
+  margin-top: 1rem;
+}
+
+.box{
+  display: flex;
+}
+
+.box >div{
+  width: 100%;
+  max-width: 65%;
+}
+
+.box img{
+  width: 100%;
+  max-width: 400px;
+  position: absolute;
+  bottom: 0;
+  right: 40px;
 }

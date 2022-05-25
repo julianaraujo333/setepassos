@@ -2,12 +2,12 @@
   background-image: url(../../Assets/texturabranco.png);
   padding: 4rem 0;
 }
-.banner li{
+.banner ul{
   display: flex;
   justify-content: space-between;
 }
 
-.banner ul{
+.banner li{
   box-sizing: border-box;
   margin: 1rem;
   padding: 4rem 1rem;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 960px) { 
-  .banner li{
+  .banner ul{
     flex-direction: column;
   }
 }

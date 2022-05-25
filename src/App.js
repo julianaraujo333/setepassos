@@ -11,6 +11,7 @@ import Home from "./Components/Home/Home";
 import Dancing from "./Components/Dancing/Dancing";
 import Questions from "./Components/Questions/Questions";
 import Details from "./Components/Details/Details";
+import Road from "./Components/Road/Road";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Home />
       <Banner />
       <Dancing />
+      <Road />
       <Gift />
       <Guests />
       <Testimonial />

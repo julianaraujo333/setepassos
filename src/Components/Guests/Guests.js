@@ -13,17 +13,6 @@ const Guests = () => {
         <li className={styles.wrapper}>
           <ul>
             <div className={styles.list}>
-              <img src={rodrigo} alt="Rodrigo Marins" />
-              <li className={styles.sublist}>
-                <ul>
-                  <h3>Rodrigo Marins</h3>
-                </ul>
-                <ul>Como fazer tráfego pago no seu Instagram Jurídico</ul>
-              </li>
-            </div>
-          </ul>
-          <ul>
-            <div className={styles.list}>
               <img src={juliana} alt="Juliana Cruz" />
               <li className={styles.sublist}>
                 <ul>

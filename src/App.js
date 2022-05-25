@@ -9,6 +9,7 @@ import Warning from "./Components/Warning/Warning";
 import Testimonial from "./Components/Testimonial/Testimonial";
 import Home from "./Components/Home/Home";
 import Dancing from "./Components/Dancing/Dancing";
+import Questions from "./Components/Questions/Questions";
 
 function App() {
   return (
@@ -16,12 +17,13 @@ function App() {
       <Home />
       <Banner />
       <Dancing />
-      <Mentor />
-      <Support />
       <Gift />
       <Guests />
       <Testimonial />
       <Insurance />
+      <Mentor />
+      <Support />
+      <Questions />
       <Warning />
     </div>
   );

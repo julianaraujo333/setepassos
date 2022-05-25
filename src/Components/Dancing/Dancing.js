@@ -1,11 +1,12 @@
 import React from "react";
 import styles from "./Dancing.module.css";
 import foto from "./../../Assets/foto2.png";
+import title from "./../../Assets/titulo/1.png";
 const Dancing = () => {
   return (
     <section className={`${styles.dancing} `}>
       <div className={`${styles.wrapper} container`}>
-        <h3>Você não precisa de dancinhas</h3>
+        <img src={title} alt="Você não precisa de dancinhas" />
         <div className={styles.box}>
           <div>
             <p>

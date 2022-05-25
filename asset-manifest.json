@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.02931868.css",
-    "main.js": "/static/js/main.05aec0d9.js",
+    "main.css": "/static/css/main.89db5e95.css",
+    "main.js": "/static/js/main.3d9fe2b3.js",
     "static/media/texturabranco.png": "/static/media/texturabranco.df2c7d005f8e8f6ffe1b.png",
     "static/media/texturaescuro.png": "/static/media/texturaescuro.d6ec523904160766210e.png",
     "static/media/bio.jpg": "/static/media/bio.2becdea077326e84ac15.jpg",
     "static/media/juliana.png": "/static/media/juliana.c95b64ea9a62976158f3.png",
     "static/media/tallyta.png": "/static/media/tallyta.2f45b1fae672985f676f.png",
-    "static/media/rodrigo.png": "/static/media/rodrigo.7c05ee5ff00b4d588423.png",
     "static/media/kelly.png": "/static/media/kelly.9ec774c2a02099e1ba92.png",
     "static/media/1.jpg": "/static/media/1.b5094fc0bf847ce86d10.jpg",
     "static/media/12.jpg": "/static/media/12.e7f5a5c165649aa38c62.jpg",
@@ -38,11 +37,11 @@
     "static/media/7.png": "/static/media/7.064bcfa51eddb8349325.png",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.02931868.css.map": "/static/css/main.02931868.css.map",
-    "main.05aec0d9.js.map": "/static/js/main.05aec0d9.js.map"
+    "main.89db5e95.css.map": "/static/css/main.89db5e95.css.map",
+    "main.3d9fe2b3.js.map": "/static/js/main.3d9fe2b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.02931868.css",
-    "static/js/main.05aec0d9.js"
+    "static/css/main.89db5e95.css",
+    "static/js/main.3d9fe2b3.js"
   ]
 }
